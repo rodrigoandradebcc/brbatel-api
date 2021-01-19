@@ -27,9 +27,6 @@ class ChangesQuantityService {
       throw new Error('Quantity not allowed');
     }
 
-    // console.log('valor novo', new_quantity);
-    // console.log('valor antigo', product.current_quantity);
-
     await productsRepository.update(product.id, {
       current_quantity: new_quantity,
     });

@@ -23,8 +23,6 @@ class GetBalanceService {
       0,
     );
 
-    console.log('TP', products);
-
     const gross = Number((totalRevenue - totalCost).toFixed(2));
 
     return {

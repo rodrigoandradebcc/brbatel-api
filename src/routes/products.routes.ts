@@ -1,4 +1,3 @@
-/* eslint-disable no-shadow */
 import { request, response, Router } from 'express';
 import { getCustomRepository } from 'typeorm';
 import ProductsRepository from '../repositories/ProductsRepository';

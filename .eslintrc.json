@@ -28,6 +28,7 @@
       "import/no-duplicates": "off",
       "@typescript-eslint/no-var-requires": "off",
       "camelcase": "off",
+      "no-shadow": "off",
       "@typescript-eslint/no-unused-vars": ["off", {
         "argsIgnorePattern": "_"
       }],
