@@ -21,11 +21,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 #### Passo 1 - Primeiramente você deve fazer o clone para sua máquina com o comando no prompt:
 
-git clone https://gitlab.com/brbatel/web-app.git
+git clone https://gitlab.com/brbatel/backend.git
 
 #### Passo 2 - Você acessará o diretório da aplicação com o comando:
 
-cd web-app
+cd backend
 
 #### Passo 3 - Para instalar todas as dependência utilizaremos o [Yarn](https://yarnpkg.com/). Utilize o comando:
 
@@ -34,7 +34,7 @@ yarn
 #### Passo 4 - Criar o arquivo .env que contém as variaveis de ambiente necessárias para levantar a aplicação
 
 <h1 align="center">
-  <img alt="Ambiente" title="BrBatel" src="https://user-images.githubusercontent.com/3511851/114931294-6ff42700-9e0c-11eb-8e81-13cec7a36c9f.png" width="800px" />
+  <img alt="Ambiente" title="BrBatel" src="https://user-images.githubusercontent.com/3511851/115023779-9dd17e00-9e95-11eb-90a0-be67fddda937.PNG" width="800px" />
 </h1>
 
 #### Passo 5 - Para alterar para a branch de Teste, utilize o comando:
