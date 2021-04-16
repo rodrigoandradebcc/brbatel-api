@@ -52,7 +52,7 @@ yarn
 docker compose up --build
 
 <h1 align="center">
-  <img alt="Ambiente" title="BrBatel" src="https://user-images.githubusercontent.com/3511851/114932493-f2c9b180-9e0d-11eb-811b-c7d2fd4c7884.png" width="800px" />
+  <img alt="Ambiente" title="BrBatel" src="https://user-images.githubusercontent.com/3511851/115025710-12a5b780-9e98-11eb-9f36-3a45bf0746b1.PNG" width="800px" />
   <img alt="Ambiente" title="BrBatel" src="https://user-images.githubusercontent.com/3511851/114933212-cfebcd00-9e0e-11eb-9fe3-6c6e864b481a.png" width="800px" />
 </h1>
 
