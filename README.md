@@ -27,19 +27,19 @@ git clone https://gitlab.com/brbatel/backend.git
 
 cd backend
 
-#### Passo 3 - Para instalar todas as dependência utilizaremos o [Yarn](https://yarnpkg.com/). Utilize o comando:
-
-yarn
-
-#### Passo 4 - Criar o arquivo .env que contém as variaveis de ambiente necessárias para levantar a aplicação
+#### Passo 3 - Criar o arquivo .env que contém as variaveis de ambiente necessárias para levantar a aplicação
 
 <h1 align="center">
   <img alt="Ambiente" title="BrBatel" src="https://user-images.githubusercontent.com/3511851/115023779-9dd17e00-9e95-11eb-90a0-be67fddda937.PNG" width="800px" />
 </h1>
 
-#### Passo 5 - Para alterar para a branch de Teste, utilize o comando:
+#### Passo 4 - Para alterar para a branch de Teste, utilize o comando:
 
 git checkout test
+
+#### Passo 5 - Para instalar todas as dependência utilizaremos o [Yarn](https://yarnpkg.com/). Utilize o comando:
+
+yarn
 
 #### Passo 6 - Para executar a aplicação utilize o comando:
 
