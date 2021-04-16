@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="JobsCalc" title="BrBatel" src="https://user-images.githubusercontent.com/3511851/114934632-869c7d00-9e10-11eb-98d7-dcf065bc4029.png" width="220px" />
+  <img alt="BrBatel" title="BrBatel" src="https://user-images.githubusercontent.com/3511851/114934632-869c7d00-9e10-11eb-98d7-dcf065bc4029.png" width="220px" />
 </h1>
 
 <p align="center">
