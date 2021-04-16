@@ -53,7 +53,7 @@ docker compose up --build
 
 <h1 align="center">
   <img alt="Ambiente" title="BrBatel" src="https://user-images.githubusercontent.com/3511851/115025710-12a5b780-9e98-11eb-9f36-3a45bf0746b1.PNG" width="800px" />
-  <img alt="Ambiente" title="BrBatel" src="https://user-images.githubusercontent.com/3511851/114933212-cfebcd00-9e0e-11eb-9fe3-6c6e864b481a.png" width="800px" />
+  <img alt="Ambiente" title="BrBatel" src="https://user-images.githubusercontent.com/3511851/115030276-49320100-9e9d-11eb-8182-537818d1f48f.PNG" width="800px" />
 </h1>
 
 ## 🔖 Layout
